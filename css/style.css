@@ -611,11 +611,10 @@ body {
   background-color: #4d5ae5;
 }
 
-.second-link:hover .overflow-text,
-.second-link:focus .overflow-text {
+.portfolio-link:hover .overflow-text,
+.portfolio-link:focus .overflow-text {
   transform: translateY(0%);
 }
-
 
 .img-box {
   padding: 32px 16px;
