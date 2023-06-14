@@ -4,7 +4,9 @@
 :root {
   --central-color: #2e2f42;
   --button-color: #4d5ae5;
+  --blue-color-back: #404bbf;
   --white-color-text: #ffffff;
+  --white-color-back: #fcfcfc;
 }
 ul {
   list-style: none;
